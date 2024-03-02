@@ -74,10 +74,9 @@ h2{
 }
 
 .color-blocks {
-    display: inline-block;
+    display: inline-flex;
     overflow: scroll;
 }
-
 
 
 #color-1 {
