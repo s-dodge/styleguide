@@ -1,0 +1,46 @@
+html {
+    background-color: #f2ab6d;
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 1px 1px #c18857;
+}
+ul {
+    margin: 5px;
+}
+
+.nav {
+    background: #d99962;
+    padding: 1px;
+}
+.nav li{
+    display: inline-block;
+    font-family: 'Oswald', sans-serif;
+    color: white;
+}
+
+.nav a {
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    background-color: #f2ab6d;
+    border-radius: 3px;
+    padding: 0px 20px;
+    box-shadow: 1px 1px #c18857;
+}
+
+.nav a:active {
+    box-shadow: -1px -1px #c18857;
+
+}
+
+.info h1 {
+    border-radius: 10px;
+    width: 400px;
+    height: 400px;
+    margin: 10px auto;
+    font-family: 'Macha', sans-serif;
+    font-weight: 100;   
+    color: white;
+}
