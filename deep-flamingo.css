@@ -1,5 +1,5 @@
 html {
-    background-color: #d2d9c7;
+    background-color: #d95252;
 }
 
 a {
@@ -9,14 +9,14 @@ a {
 
 h1 {
     text-align: center;
-    text-shadow: 1px 1px #93978b;
+    text-shadow: 1px 1px #8c3232;
 }
 ul {
     margin: 5px;
 }
 
 .nav {
-    background: #bdc3b3;
+    background: #ad4141;
     padding: 1px;
 }
 .nav li{
@@ -29,14 +29,14 @@ ul {
     color: white;
     cursor: pointer;
     text-decoration: none;
-    background-color: #d2d9c7;
+    background-color: #d95252;
     border-radius: 3px;
     padding: 0px 20px;
-    box-shadow: 1px 1px #93978b;
+    box-shadow: 1px 1px #8c3232;
 }
 
 .nav a:active {
-    box-shadow: -1px -1px #93978b;
+    box-shadow: -1px -1px #8c3232;
 
 }
 

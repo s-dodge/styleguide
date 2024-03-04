@@ -2,11 +2,23 @@
 html {
     background-color: rgba(235, 214, 188, .3);
 }
+
 p {
-    
+    font-family: 'macha', sans-serif;
+    font-weight: 100;
 }
+
 a {
     text-decoration: none;
+}
+
+ul {
+    padding: 30px;
+    font-family: 'Macha', sans-serif;
+    font-weight: 100;
+    text-align: center;
+    list-style-type: none;
+    line-height: 1.8;
 }
 
 h1 {
@@ -79,11 +91,13 @@ div.Macha{
 #regular.Owsald,
 #regular.Macha {
     font-style: normal;
+    font-weight: 400;
 }
 
 #italic.Oswald,
 #italic.Macha {
     font-style: italic;
+    font-weight: 400;
 }
 
 .Macha {
